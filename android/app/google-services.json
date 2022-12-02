@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "445100102087",
+    "project_id": "woogoods-54fb1",
+    "storage_bucket": "woogoods-54fb1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:445100102087:android:6bdacd95af6e791f2789e2",
+        "android_client_info": {
+          "package_name": "com.akaarit.woogoods"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "445100102087-884dhq6d7cnaj2n9omrmqcve2ja3jjh2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.akaarit.woogoods",
+            "certificate_hash": "f6cef6ab88bb710ad3cf4d49a964fcd8eedde080"
+          }
+        },
+        {
+          "client_id": "445100102087-antjt335dtiaq8jccuj9be7iu5j56591.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYRpWHCZpjEuP0kOre931nHGBeexCoHmg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "445100102087-antjt335dtiaq8jccuj9be7iu5j56591.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

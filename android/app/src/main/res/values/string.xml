@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Akaar News</string>
+
+    <!-- Replace "000000000000" with your Facebook CricketHome here. -->
+    <string name="facebook_app_id">975999786330411</string>
+
+    <string name="fb_login_protocol_scheme">fb975999786330411</string>
+
+    <string name="facebook_client_token">ea807c60d96a1aaff5b4c33d46a484cf</string>
+</resources>
